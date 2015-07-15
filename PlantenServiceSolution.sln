@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlantenServiceLibrary", "PlantenServiceLibrary\PlantenServiceLibrary.csproj", "{4352C919-6098-429C-9139-8432C5674CA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IISPlantenServiceHost", "IISPlantenServiceHost\IISPlantenServiceHost.csproj", "{00C53CFB-C356-4890-AB85-E4F6D87DEDFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4352C919-6098-429C-9139-8432C5674CA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4352C919-6098-429C-9139-8432C5674CA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4352C919-6098-429C-9139-8432C5674CA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4352C919-6098-429C-9139-8432C5674CA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00C53CFB-C356-4890-AB85-E4F6D87DEDFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00C53CFB-C356-4890-AB85-E4F6D87DEDFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00C53CFB-C356-4890-AB85-E4F6D87DEDFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00C53CFB-C356-4890-AB85-E4F6D87DEDFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
