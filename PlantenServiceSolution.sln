@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlantenServiceLibrary", "Pl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IISPlantenServiceHost", "IISPlantenServiceHost\IISPlantenServiceHost.csproj", "{00C53CFB-C356-4890-AB85-E4F6D87DEDFD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsolePlantenClient", "ConsolePlantenClient\ConsolePlantenClient.csproj", "{7D3413CC-C09C-4C4B-8573-B3102CAB380D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{00C53CFB-C356-4890-AB85-E4F6D87DEDFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00C53CFB-C356-4890-AB85-E4F6D87DEDFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00C53CFB-C356-4890-AB85-E4F6D87DEDFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D3413CC-C09C-4C4B-8573-B3102CAB380D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D3413CC-C09C-4C4B-8573-B3102CAB380D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D3413CC-C09C-4C4B-8573-B3102CAB380D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D3413CC-C09C-4C4B-8573-B3102CAB380D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

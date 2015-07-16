@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="f393036b-ce6c-4882-b574-883b8a908230" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost/PlantenServiceHost/PlantenService.svc/mex/mex" Protocol="mex" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="plantenservice1.wsdl" MetadataType="Wsdl" ID="e5c0a428-2f00-43ea-9a00-eb657094fc0e" SourceId="1" SourceUrl="http://localhost/PlantenServiceHost/PlantenService.svc/mex/mex" />
+    <MetadataFile FileName="service1.wsdl" MetadataType="Wsdl" ID="bd02621a-8ca2-414e-a8f7-6ed6121bc40f" SourceId="1" SourceUrl="http://localhost/PlantenServiceHost/PlantenService.svc/mex/mex" />
+    <MetadataFile FileName="plantenservice1.xsd" MetadataType="Schema" ID="bdbeacff-39d6-4940-8f6c-d3ef1722a432" SourceId="1" SourceUrl="http://localhost/PlantenServiceHost/PlantenService.svc/mex/mex" />
+    <MetadataFile FileName="service1.xsd" MetadataType="Schema" ID="389f547f-c37c-47f6-940f-078331e44274" SourceId="1" SourceUrl="http://localhost/PlantenServiceHost/PlantenService.svc/mex/mex" />
+    <MetadataFile FileName="PlantenServiceLibrary1.xsd" MetadataType="Schema" ID="d37b2a72-0b09-466f-98b2-784442eb1cde" SourceId="1" SourceUrl="http://localhost/PlantenServiceHost/PlantenService.svc/mex/mex" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
